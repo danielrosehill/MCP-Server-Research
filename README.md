@@ -1,5 +1,7 @@
 # MCP Server Research
 
+> **Update, November 2026:** the implementation of this research now lives in [Canopy](https://github.com/danielrosehill/Canopy). These notes are kept for background.
+
 Research into MCP (Model Context Protocol) gateway solutions, focusing on dynamic tool discovery and context pollution mitigation.
 
 ## Research Output
